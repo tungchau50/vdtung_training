@@ -33,5 +33,6 @@ public class GiaoVienDto {
 	public void dklh () {
 		DangKyLopHocDto dklh = new DangKyLopHocDto();
 		dklh.getSv();
+		dklh.getSv();
 	}
 }
