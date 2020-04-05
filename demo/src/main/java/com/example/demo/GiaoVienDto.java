@@ -8,6 +8,7 @@ public class GiaoVienDto {
 	private String mgv;
 	
 	private int tuoi;
+	private int tuoi1;
 	private String tenGV;
 
 	public String getMgv() {
