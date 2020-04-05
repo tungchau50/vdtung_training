@@ -30,6 +30,7 @@ public class DangKyLopHocDto {
 	private int soSV;
 	private GiaoVienDto gv;
 	private SinhVienDto sv;
+	private SinhVienDto sv1;
 	
 	public DangKyLopHocDto() {
 	}
