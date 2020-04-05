@@ -28,7 +28,7 @@ public class DangKyLopHocDto {
 		this.sv = sv;
 	}
 	private int soSV;
-	private GiaoVienDto gv;
+	private GiaoVienDto sv;
 	private SinhVienDto sv;
 	
 	public DangKyLopHocDto() {
